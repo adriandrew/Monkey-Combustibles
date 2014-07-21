@@ -110,7 +110,7 @@ function invocarJson() {
 
     type: "POST",
           
-    url: "http://monkey.somee.com/Gasolinax/wsCombustibles.php",
+    url: "http://monkey.somee.com/CombustiblesMonkey/wsCombustibles.php",
           
     data: "{}",
           
